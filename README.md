@@ -67,12 +67,6 @@ Navigate to `http://127.0.0.1:5000` in your browser.
 
 ---
 
-## 📸 Screenshot
-
-![App Screenshot](static/screenshot.png)
-
----
-
 ## ✨ Usage
 
 1. Choose the desired password length.
