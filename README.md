@@ -69,7 +69,7 @@ Navigate to `http://127.0.0.1:5000` in your browser.
 
 ## 📸 Screenshot
 
-![App Screenshot](https://via.placeholder.com/600x300?text=Password+Generator+UI)
+![App Screenshot](static/screenshot.png)
 
 ---
 
